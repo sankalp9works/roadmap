@@ -1,3 +1,4 @@
+## Script file for log-analyzer tool
 #!/bin/bash
 
 # check if the directory was provided
